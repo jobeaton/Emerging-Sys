@@ -1,3 +1,5 @@
+# Thermostat
+
 # Summarize the project and what problem it was solving.
 In this project, I had to utilize temperature, timer, UART and give funcionality to the buttons on the board
 # What did you do particularly well?
@@ -10,3 +12,6 @@ I2C, UART, GPIO, Timer, and the CC3220S microcontroller
 C programming and any project relating to embedded programming.
 # How did you make this project maintainable, readable, and adaptable?
 The code works and should be able to be implemented again if needed. Slight changes might be needed if it is a different microcontroller.
+
+
+
