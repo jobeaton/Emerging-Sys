@@ -13,5 +13,18 @@ C programming and any project relating to embedded programming.
 # How did you make this project maintainable, readable, and adaptable?
 The code works and should be able to be implemented again if needed. Slight changes might be needed if it is a different microcontroller.
 
+# Morse Code
 
+# Summarize the project and what problem it was solving.
+This project had me utilize the led lights to produce morse code.
+# What did you do particularly well?
+I managed to get the microcontroller to blink. My code also utilized best practices.
+# Where could you improve?
+The led lights were not lighting up in the order I wanted them to.
+# What tools and/or resources are you adding to your support network?
+Timers and CC3220S microcontroller.
+# What skills from this project will be particularly transferable to other projects and/or course work?
+Helped me understand timers for embedded systems.
+# How did you make this project maintainable, readable, and adaptable?
+Made it readable with comments and best practices.
 
